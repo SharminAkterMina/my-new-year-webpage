@@ -1,0 +1,49 @@
+.image{
+    background-image: url("../banner.png");
+    margin: 60px;
+    height: 600px;    
+}
+#first{
+    color: white;
+    text-align: center;
+    padding-top: 120px;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+}
+#image-title{
+    color:white;
+    text-align: center;
+    font-family: Merriweather;
+     padding-top: 20px;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.title{
+    text-align: center;
+    color: #F00;
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+}
+.para{
+    text-align: center;
+    color: #F00;
+}
+.para-2{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+}
+.image-2{
+    margin: 10px 200px 50px 300px;
+    height: 500px;
+    weight: 300px
+}
+
+
+
+
