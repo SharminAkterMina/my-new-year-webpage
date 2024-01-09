@@ -44,6 +44,65 @@
     weight: 300px
 }
 
+.section-four{
+    background-color: lightpink;
+    height: 400px;
+    margin: 90px;
+    border-radius: 5px;
+
+}
+.section-four-one{
+    text-align: center;
+    padding-top: 80px;
+    font-size: 18px;
 
 
+}
+.section-four-two{
+    text-align: center;
+    font-size: 18px;
+    
+}
 
+.section-four-three{
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.btn{
+    background-color: #F00;
+    color: white;
+    border-radius: 5px;
+    border: 0px;
+    padding: 16px 32px;
+    margin-left: 590px;
+}
+.red{
+    color: red;
+}
+
+.section-six-one{
+    text-align: center;
+}
+
+.section-six-title{
+    text-align: center;
+}
+
+.section-six-two{
+    text-align: center;
+}
+.section-six-image-two{
+    height: 150px;
+    width:80%;
+    margin-left:160px;
+    margin-right: 60px;
+}
+.section-six-image{
+    padding: 30px 30px 0px 930px;
+}
+
+.section-six-image-three{
+    padding-left: 200px;
+}
