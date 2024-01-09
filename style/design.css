@@ -92,6 +92,7 @@
 
 .section-six-two{
     text-align: center;
+    color: gray;
 }
 .section-six-image-two{
     height: 150px;
@@ -102,7 +103,57 @@
 .section-six-image{
     padding: 30px 30px 0px 930px;
 }
+.section-six-image-three{ 
+     margin: 60px;     
+    height: 150px; 
+    width: 180px; 
+}
+#good{
+    margin: 80px ;
+}
 
-.section-six-image-three{
-    padding-left: 200px;
+.section-seven-title{
+    font-size: 40px;
+    font-weight: 700;
+    margin: 80px;
+}
+
+.section-seven-content{
+    color: gray;
+    margin: 80px;
+}
+.image-container{
+    display: flex;
+    gap: 50px;
+    margin: 80px;
+}
+
+.section-eight{
+    background-color:lightpink;
+    margin: 80px;
+    border-radius: 5px;
+
+}
+
+.section-eight-image{
+    text-align: center;
+    /* height: 50px;
+    width: 50px; */
+}
+.footer-container-title{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    padding: 30px;
+    height: 300px;
+}
+.footer-symbol{
+    justify-content: center;
+    
+}
+.symbol{
+    height: 40px;
+    width: 40px;
 }
